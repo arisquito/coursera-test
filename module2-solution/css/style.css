@@ -21,6 +21,11 @@ p {
   overflow: auto;
 }
 
+h1 {
+  text-align: center;
+  font-size: 175%;
+}
+
 div#container {
   position: relative;
 }
