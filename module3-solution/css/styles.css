@@ -19,3 +19,7 @@ div section {
     position: absolute;
     left: 10px;
 }
+
+#texto {
+    text-align: justify;
+}
