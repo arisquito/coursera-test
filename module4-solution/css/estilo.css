@@ -1,0 +1,12 @@
+h1, p {
+	padding-left: 3%;
+	padding-top: 10px;
+}
+p {
+
+	font-size: 1.2em;
+}
+
+#nota{
+	font-style: italic;
+}
