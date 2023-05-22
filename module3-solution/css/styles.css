@@ -20,6 +20,7 @@ div section {
     left: 10px;
 }
 
+/*Justificar texto*/
 #texto {
     text-align: justify;
 }
