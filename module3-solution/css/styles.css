@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+#nav-list > li {
+    text-align: center;
+    background-color: #FFFFD9;
+}
+
+div section {
+    margin: 10px;
+    padding: 10px;
+}
+#section-1{
+    background-color: #B3E5FF;
+}
+
+#header-nav .navbar-brand {
+    position: absolute;
+    left: 10px;
+}
